@@ -3,5 +3,6 @@
     <pages>
         <page name='Comentarios'/>
         <page name='Untitled Page'/>
+        <page name='Hotfix'/>
     </pages>
 </playground>

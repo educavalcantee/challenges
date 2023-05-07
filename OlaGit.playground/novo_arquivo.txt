@@ -1,0 +1,1 @@
+Arquivo criado no GitHub para fazer o comando git pull para meu terminal local
